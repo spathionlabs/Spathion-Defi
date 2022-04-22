@@ -25,6 +25,7 @@ The lender needs to provide the details and click on ‘SUBMIT’. When submit i
  2.3) LOAN section: This page will details of all invoices  after the ARPA verification with MINT and REPAY buttons next to them.
  
 3. Validator: 
+
 3.0) Whitelisted list.
 
 3.1) TLender profiles list
