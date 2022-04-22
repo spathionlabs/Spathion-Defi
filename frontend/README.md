@@ -1,6 +1,6 @@
 # Frontend
 
-Page screenshots link: https://drive.google.com/drive/folders/12iAmcODPZ8LEpQkb4QSK9-B9DbBAQ6nM?usp=sharing
+Screenshots link: https://drive.google.com/drive/folders/12iAmcODPZ8LEpQkb4QSK9-B9DbBAQ6nM?usp=sharing
 
 
 Homepage
@@ -55,8 +55,7 @@ Borrower
 
 ![Screenshot (231)](https://user-images.githubusercontent.com/68725634/164602313-1532a496-1029-48a9-9a12-a244d1ab70e6.png)
 
-![Screenshot (232)](https://user-images.githubusercontent.com/68725634/16460
-2334-534d3dce-b19a-4a34-8ebc-6c17180f2b5a.png)
+![Screenshot (232)](https://user-images.githubusercontent.com/68725634/164602334-534d3dce-b19a-4a34-8ebc-6c17180f2b5a.png)
 
 
 Validator
