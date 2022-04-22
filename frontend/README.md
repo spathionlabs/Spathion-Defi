@@ -22,9 +22,9 @@ The lender needs to provide the details and click on ‘SUBMIT’. When submit i
 
 2.1) Invoice details- need to fill in the customer and the invoice details (CRUD) first and then the upload invoice button is enabled after verification. After the invoice is verified the ARPA is enabled and should be uploaded. After verification the user can move onto the mint section until then its frozen.
 
-2.2) Invoice list: This will have list of all invoices with apply button.
+2.2) Invoice list: This will have list of all invoices with APPLY button.
  
- 2.3) Loan section: This page will details of all invoices  after the ARPA verification with MINT and REPAY buttons next to them.
+2.3) Loan section: This page will have details of all invoices after the ARPA verification REPAY button.
  
  
 3. VALIDATOR (admin): 
