@@ -3,9 +3,9 @@
 Screenshots link: https://drive.google.com/drive/folders/12iAmcODPZ8LEpQkb4QSK9-B9DbBAQ6nM?usp=sharing
 
 The three windows:
-Lender
-Borrower
-Validator
+Lender,
+Borrower,
+Validator.
 
 
  1. Lender:
