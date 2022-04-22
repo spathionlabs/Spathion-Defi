@@ -7,12 +7,14 @@ Lender
 Borrower
 Validator
 
+
  1. Lender:
  
 1.0) Profile section - CRUD operations with the details. With edit option. 
 The lender needs to provide the details and click on ‘SUBMIT’. When submit is clicked after filling (all the fields are mandatory - check ),  the admin receives the data and needs to approve ( so there will be a message telling - approval pending) and once the admin approves (there will be a message telling - approved) they can move on to the lending part until then the lending part is frozen.
 
 1.1) Wallet: This will only open when the approved message is shown i.e, when the admin approves the KYC details. The metamask is to connect to the blockchain. The lend is to lend and the withdrawal is frozen until the locking period- after lending (display the unlock date and time) is complete. After its withdrawn, the amount comes back with interest.
+
 
   2. Borrower:
  
@@ -23,6 +25,7 @@ The lender needs to provide the details and click on ‘SUBMIT’. When submit i
 2.2) INVOICE list: This will have list of all invoices with apply button.
  
  2.3) LOAN section: This page will details of all invoices  after the ARPA verification with MINT and REPAY buttons next to them.
+ 
  
 3. Validator: 
 
@@ -41,6 +44,7 @@ The lender needs to provide the details and click on ‘SUBMIT’. When submit i
 3.6) Approved invoices list
 
 3.7) Transfer section
+
 
 
 Homepage
