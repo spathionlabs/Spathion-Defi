@@ -8,25 +8,38 @@ Borrower
 Validator
 
  1. Lender:
-	1.0) Profile section - CRUD operations with the details. With edit option. 
+ 
+1.0) Profile section - CRUD operations with the details. With edit option. 
 The lender needs to provide the details and click on ‘SUBMIT’. When submit is clicked after filling (all the fields are mandatory - check ),  the admin receives the data and needs to approve ( so there will be a message telling - approval pending) and once the admin approves (there will be a message telling - approved) they can move on to the lending part until then the lending part is frozen.
+
 1.1) Wallet: This will only open when the approved message is shown i.e, when the admin approves the KYC details. The metamask is to connect to the blockchain. The lend is to lend and the withdrawal is frozen until the locking period- after lending (display the unlock date and time) is complete. After its withdrawn, the amount comes back with interest.
 
   2. Borrower:
-	2.0) Profile section - same as the Lender part. After the verification is done, the Invoice details part is enabled.
-	2.1) Invoice details- need to fill in the customer and the invoice details (CRUD) first and then the upload invoice button is enabled after verification. After the invoice is verified the ARPA is enabled and should be uploaded. After verification the user can move onto the mint section until then its frozen.
-  2.2) INVOICE list: This will have list of all invoices with apply button.
-  2.3) LOAN section: This page will details of all invoices  after the ARPA verification with MINT and REPAY buttons next to them.
  
- 3. Validator: 
-	3.0) Whitelisted list.
-	3.1) TLender profiles list
-	3.2) Borrower profiles list
-	3.3) Invoice details list
-	3.4) Uploaded invoices list
-	3.5) Uploaded ARPA documents list
-	3.6) Approved invoices list
-	3.7) Transfer section
+2.0) Profile section - same as the Lender part. After the verification is done, the Invoice details part is enabled.
+
+2.1) Invoice details- need to fill in the customer and the invoice details (CRUD) first and then the upload invoice button is enabled after verification. After the invoice is verified the ARPA is enabled and should be uploaded. After verification the user can move onto the mint section until then its frozen.
+
+2.2) INVOICE list: This will have list of all invoices with apply button.
+ 
+ 2.3) LOAN section: This page will details of all invoices  after the ARPA verification with MINT and REPAY buttons next to them.
+ 
+3. Validator: 
+3.0) Whitelisted list.
+
+3.1) TLender profiles list
+
+3.2) Borrower profiles list
+
+3.3) Invoice details list
+
+3.4) Uploaded invoices list
+
+3.5) Uploaded ARPA documents list
+
+3.6) Approved invoices list
+
+3.7) Transfer section
 
 
 Homepage
