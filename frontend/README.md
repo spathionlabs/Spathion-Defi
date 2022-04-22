@@ -31,7 +31,7 @@ The lender needs to provide the details and click on ‘SUBMIT’. When submit i
 
 3.0) Whitelisted list.
 
-3.1) TLender profiles list
+3.1) Lender profiles list
 
 3.2) Borrower profiles list
 
