@@ -31,8 +31,6 @@ Borrower
 
 ![Screenshot (219)](https://user-images.githubusercontent.com/68725634/164602055-5ed93e20-43e8-4793-8c83-dcd8acc07be9.png)
 
-![Screenshot (220)](https://user-images.githubusercontent.com/68725634/164602070-7415d7df-c68c-46e0-8449-57ea04cd5ad5.png)
-
 ![Screenshot (221)](https://user-images.githubusercontent.com/68725634/164602080-711352cf-8aa3-4520-9f4c-aa5486fe7274.png)
 
 ![Screenshot (222)](https://user-images.githubusercontent.com/68725634/164602097-60eba153-e412-4dea-9e83-80109aa83cd0.png)
