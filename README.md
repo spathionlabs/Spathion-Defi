@@ -1,4 +1,4 @@
-# Spathion
+# Spathion-Defi
 
 Website: https://spathion.com/
 
